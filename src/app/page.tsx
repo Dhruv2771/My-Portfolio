@@ -12,8 +12,6 @@ export default function Home() {
     <main className="bg-[#121212] min-h-screen text-white">
       <Hero />
       <Projects />
-      <Testimonials />
-      <Blog />
       <Skills />
       <Timeline />
       <Dock />

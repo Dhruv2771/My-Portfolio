@@ -12,6 +12,15 @@ export async function POST(req: Request) {
       );
     }
 
+    if (!process.env.EMAIL_USER || !process.env.EMAIL_PASS) {
+      console.log('--- NEW TESTIMONIAL SUBMISSION (Mocked) ---');
+      console.log(`Name: ${name}`);
+      console.log(`Role: ${role}`);
+      console.log(`Quote: ${quote}`);
+      console.log('-------------------------------------------');
+      return NextResponse.json({ message: 'Testimonial submitted to console (Email credentials not configured)' }, { status: 200 });
+    }
+
     const transporter = nodemailer.createTransport({
       service: 'gmail',
       auth: {

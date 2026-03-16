@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 const skills = [
   { category: "Frontend", items: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Redux"] },
   { category: "Backend", items: ["Node.js", "Express", "Microservices", "PostgreSQL", "MongoDB", "RabbitMQ"] },
+  { category: "AI & ML", items: ["Python", "TensorFlow", "Scikit-Learn", "GenAI", "LLMOps", "NLP"] },
   { category: "DevOps & Cloud", items: ["Docker", "Kubernetes", "AWS EC2", "AWS S3", "CI/CD", "Nginx"] },
 ];
 
@@ -28,11 +29,11 @@ export default function Skills() {
             Technical <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 to-purple-400">Arsenal</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl leading-relaxed">
-            A comprehensive stack enabling end-to-end development of scalable applications.
+            A comprehensive stack enabling end-to-end development of scalable, intelligent applications.
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {skills.map((group, idx) => (
             <motion.div
               key={idx}
