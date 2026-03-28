@@ -105,7 +105,7 @@ export default function Hero() {
                 className="absolute -right-8 -top-8 bg-black/60 backdrop-blur-2xl border border-white/20 p-4 rounded-3xl shadow-xl z-20"
                 style={{ transform: "translateZ(60px)" }}
               >
-                <span className="text-3xl">🧠</span>
+                <span className="text-3xl"></span>
               </motion.div>
 
               {/* Floating Badge */}

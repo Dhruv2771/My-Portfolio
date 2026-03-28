@@ -77,9 +77,8 @@ export default function Contact() {
               </a>
 
               <div className="flex items-center gap-4">
-                <SocialLink href="https://github.com/DhruvKapatel" icon={<GithubIcon />} label="GitHub" />
-                <SocialLink href="https://linkedin.com/in/" icon={<LinkedinIcon />} label="LinkedIn" />
-                <SocialLink href="https://twitter.com/" icon={<TwitterIcon />} label="Twitter" />
+                <SocialLink href="https://github.com/Dhruv2771" icon={<GithubIcon />} label="GitHub" />
+                <SocialLink href="www.linkedin.com/in/dhruv-patel-185706322" icon={<LinkedinIcon />} label="LinkedIn" />
               </div>
             </div>
 
