@@ -1,0 +1,15 @@
+﻿ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+ Current Netlify User Γöé
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+[32mEmail: [39m pateldhruvnovember@gmail.com
+[32mGitHub: [39mDhruv2771
+[32mTeams: [39m
+  [32m- [39mpateldhruvnovemberΓÇÖs team
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+ Netlify Project Info  Γöé
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+[32mCurrent project: [39mclever-bavarois-fba42e
+[32mAdmin URL: [39m      https://app.netlify.com/projects/clever-bavarois-fba42e
+[32mProject URL: [39m    https://clever-bavarois-fba42e.netlify.app
+[32mProject Id: [39m     49b4d2b0-a368-4575-b62d-853eb4db07a5
+

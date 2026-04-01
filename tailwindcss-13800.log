@@ -1,0 +1,112 @@
+2026-03-25T08:39:38.012613Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-03-25T08:39:38.013482Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio", pattern: "**/*", negated: false }
+2026-03-25T08:39:38.015639Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-03-25T08:39:38.015686Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio" }
+2026-03-25T08:39:38.024485Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.028801Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\.vscode"
+2026-03-25T08:39:38.029107Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\.vscode\\settings.json"
+2026-03-25T08:39:38.029265Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\eslint.config.mjs"
+2026-03-25T08:39:38.029368Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\netlify.toml"
+2026-03-25T08:39:38.029478Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\next.config.ts"
+2026-03-25T08:39:38.029946Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\package.json"
+2026-03-25T08:39:38.030308Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\postcss.config.mjs"
+2026-03-25T08:39:38.030613Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public"
+2026-03-25T08:39:38.031071Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\file.svg"
+2026-03-25T08:39:38.031228Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\globe.svg"
+2026-03-25T08:39:38.031351Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\next.svg"
+2026-03-25T08:39:38.031520Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\vercel.svg"
+2026-03-25T08:39:38.031736Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\window.svg"
+2026-03-25T08:39:38.031984Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\README.md"
+2026-03-25T08:39:38.032139Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\rename_assets.js"
+2026-03-25T08:39:38.032375Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src"
+2026-03-25T08:39:38.032766Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app"
+2026-03-25T08:39:38.033069Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api"
+2026-03-25T08:39:38.033348Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\send-email"
+2026-03-25T08:39:38.033616Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\send-email\\route.ts"
+2026-03-25T08:39:38.033833Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\submit-testimonial"
+2026-03-25T08:39:38.034168Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\submit-testimonial\\route.ts"
+2026-03-25T08:39:38.034364Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\globals.css"
+2026-03-25T08:39:38.034470Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\layout.tsx"
+2026-03-25T08:39:38.034574Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\page.tsx"
+2026-03-25T08:39:38.034786Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components"
+2026-03-25T08:39:38.035015Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Blog.tsx"
+2026-03-25T08:39:38.035116Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Contact.tsx"
+2026-03-25T08:39:38.035213Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Dock.tsx"
+2026-03-25T08:39:38.035305Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Hero.tsx"
+2026-03-25T08:39:38.035397Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Overlay.tsx"
+2026-03-25T08:39:38.035496Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Projects.tsx"
+2026-03-25T08:39:38.035591Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\ScrollyVideo.tsx"
+2026-03-25T08:39:38.035681Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Skills.tsx"
+2026-03-25T08:39:38.035772Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Testimonials.tsx"
+2026-03-25T08:39:38.035863Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Timeline.tsx"
+2026-03-25T08:39:38.036077Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\tsconfig.json"
+2026-03-25T08:39:38.036232Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.036248Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.036258Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.036266Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 28 file(s)
+2026-03-25T08:39:38.037474Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\submit-testimonial\\route.ts"
+2026-03-25T08:39:38.037509Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\.vscode\\settings.json"
+2026-03-25T08:39:38.037583Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\layout.tsx"
+2026-03-25T08:39:38.037613Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\eslint.config.mjs"
+2026-03-25T08:39:38.037646Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\page.tsx"
+2026-03-25T08:39:38.037709Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\netlify.toml"
+2026-03-25T08:39:38.037822Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\next.config.ts"
+2026-03-25T08:39:38.037891Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\package.json"
+2026-03-25T08:39:38.037955Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\postcss.config.mjs"
+2026-03-25T08:39:38.037987Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Blog.tsx"
+2026-03-25T08:39:38.038058Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\file.svg"
+2026-03-25T08:39:38.038086Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Contact.tsx"
+2026-03-25T08:39:38.038165Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Dock.tsx"
+2026-03-25T08:39:38.038237Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Hero.tsx"
+2026-03-25T08:39:38.038328Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Overlay.tsx"
+2026-03-25T08:39:38.038375Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\globe.svg"
+2026-03-25T08:39:38.038490Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Projects.tsx"
+2026-03-25T08:39:38.038496Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\rename_assets.js"
+2026-03-25T08:39:38.038574Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\send-email\\route.ts"
+2026-03-25T08:39:38.038714Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\next.svg"
+2026-03-25T08:39:38.038767Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\ScrollyVideo.tsx"
+2026-03-25T08:39:38.038855Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\vercel.svg"
+2026-03-25T08:39:38.038929Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Skills.tsx"
+2026-03-25T08:39:38.038938Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Timeline.tsx"
+2026-03-25T08:39:38.038989Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\README.md"
+2026-03-25T08:39:38.039014Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\tsconfig.json"
+2026-03-25T08:39:38.039095Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public\\window.svg"
+2026-03-25T08:39:38.039277Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components\\Testimonials.tsx"
+2026-03-25T08:39:38.039337Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.039352Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.039359Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.041769Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.041811Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.041826Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.041834Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-03-25T08:39:38.041959Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\globals.css"
+2026-03-25T08:39:38.041979Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.041991Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.041997Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.042043Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.042067Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.042703Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.043846Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.043863Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.047953Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\.vscode"
+2026-03-25T08:39:38.049237Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public"
+2026-03-25T08:39:38.050020Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src"
+2026-03-25T08:39:38.050358Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app"
+2026-03-25T08:39:38.050622Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api"
+2026-03-25T08:39:38.050926Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\send-email"
+2026-03-25T08:39:38.051337Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\submit-testimonial"
+2026-03-25T08:39:38.051953Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components"
+2026-03-25T08:39:38.053052Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.053193Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.053686Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.053703Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2026-03-25T08:39:38.056494Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\.vscode"
+2026-03-25T08:39:38.057447Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\public"
+2026-03-25T08:39:38.058185Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src"
+2026-03-25T08:39:38.058462Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app"
+2026-03-25T08:39:38.058722Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api"
+2026-03-25T08:39:38.059061Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\send-email"
+2026-03-25T08:39:38.060301Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\app\\api\\submit-testimonial"
+2026-03-25T08:39:38.062276Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\Nand\\OneDrive\\Documents\\Portfolio\\3d_portfolio\\src\\components"
+2026-03-25T08:39:38.064784Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2026-03-25T08:39:38.079805Z  INFO get_globs: tailwindcss_oxide::scanner: exit
